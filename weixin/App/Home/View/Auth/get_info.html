@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>信息展示页面</title>
+</head>
+<body>
+<div style="width:500px;margin:0 auto;">
+	<table style="border:1px dashed #ccc;">
+		<thead>
+			<tr>
+				<th>{$data.openid}</th>
+				<th>{$data.nickname}</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>{$data.sex}</td>
+				<td>{$data.city}</td>
+			</tr>
+			<tr>
+				<td>{$data.country}</td>
+				<td><img src="{$data.headimgurl}"></td>
+			</tr>
+			<tr>
+				<td>{$data.privilege}</td>
+				<td>版权所有   &Copy;汗哥哥  2016-2088</td>
+			</tr>
+
+		</tbody>
+	</table>
+</div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+[ 2016-06-19T17:03:47+08:00 ] ::1 /weixin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005355s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\weixin\App\Home\Controller\WechatController.class.php 第 11 行.
+
+[ 2016-06-19T18:11:15+08:00 ] ::1 /weixin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\weixin\App\Home\Controller\WechatController.class.php 第 11 行.
+
