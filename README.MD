@@ -1,5 +1,2 @@
-<?php
-echo "# weixin  By:HanGeGe"
-
-
-?>
+使用Thinkphp 框架做的 微信公众号，签到功能。
+可以实现个人二维码生成
